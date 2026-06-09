@@ -8,3 +8,16 @@ jinja2
 numpy
 pytest
 kaleido
+google-generativeai
+streamlit
+pandas
+openpyxl
+plotly
+anthropic
+python-dotenv
+jinja2
+numpy
+pytest
+kaleido
+google-generativeai
+tabulate
