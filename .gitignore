@@ -1,0 +1,30 @@
+# entorno virtual
+venv/
+.venv/
+env/
+
+# variables de entorno (nunca subir al repo)
+.env
+
+# datos (pueden ser pesados o sensibles)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# reportes generados
+*.html
+reporte_*.html
