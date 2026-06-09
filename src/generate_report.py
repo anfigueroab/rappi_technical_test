@@ -1,1 +1,0 @@
-print("Generador de reportes — en construcción.")
