@@ -6,3 +6,4 @@ anthropic
 python-dotenv
 jinja2
 numpy
+pytest
